@@ -1,0 +1,15 @@
+accelerate==0.27.0
+bitsandbytes==0.42.0
+datasets==2.17.1
+faiss-cpu==1.7.4
+gensim==4.3.2
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==1.5.3
+rouge-score==0.1.2
+scikit-learn==1.2.2
+scipy==1.11.4
+sentence-transformers==2.4.0
+torch==2.1.0+cu121
+tqdm==4.66.2
+transformers==4.36.2
